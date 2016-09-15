@@ -1,1 +1,1 @@
-console.log("goodbye");2
+console.log("
